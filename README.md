@@ -37,10 +37,11 @@ Let the grind begin. ⚡💻🎁
  ├── 📁 Day01
  │     ├── day1.py
  |     ├── day1part2.py
- │     └── input.txt
+ │     └── day1input.txt
  ├── 📁 Day02
  │     ├── day2.py
- │     └── input.txt
+ |     ├── day2part2.py
+ │     └── day2input.txt
  ├── 📁 Day03
  │     └── ...
  └── 📄 README.md
