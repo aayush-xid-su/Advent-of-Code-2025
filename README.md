@@ -35,10 +35,11 @@ Let the grind begin. ⚡💻🎁
 ```
 📁 Advent-of-Code-2025
  ├── 📁 Day01
- │     ├── solution.py
+ │     ├── day1.py
+ |     ├── day1part2.py
  │     └── input.txt
  ├── 📁 Day02
- │     ├── solution.py
+ │     ├── day2.py
  │     └── input.txt
  ├── 📁 Day03
  │     └── ...
@@ -82,7 +83,7 @@ Let the grind begin. ⚡💻🎁
 # 🛰️ **How to Run a Solution**
 
 ```bash
-python DayXX/solution.py
+python DayXX/dayxx.py
 ```
 
 (Replace `XX` with the day number)
